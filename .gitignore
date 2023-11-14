@@ -25,3 +25,20 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+ios/Pods
+node_modules/
+ios/Tulover
+ios/Tulover.xcodeproj
+ios/Tulover.xcworkspace
+ios/TuloverTests
+android/.gradle
+*.gem
+vendor/
